@@ -1,0 +1,21 @@
+{
+  "name": "reactbsts",
+  "version": "1.0.0",
+  "description": "implementation of bootstrap using react and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "react",
+    "typescript"
+  ],
+  "author": "Armando Bracho",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1"
+  }
+}
